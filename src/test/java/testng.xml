@@ -1,0 +1,13 @@
+<suite name ="Prueba - tests">
+    <test name ="Ejercicios" >
+
+        <classes>
+
+            <class name = "prueba_mailchimp"/>
+            <class name = "dataProvider"/>
+
+        </classes>
+
+    </test>
+
+</suite>
